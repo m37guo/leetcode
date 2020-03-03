@@ -1,4 +1,4 @@
-package com.hermione.question54;
+package com.hermione.q54;
 
 import java.util.List;
 import java.util.ArrayList;
